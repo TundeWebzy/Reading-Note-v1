@@ -15,7 +15,7 @@ Markdown was created by John Gruber in 2004.
 - Markdown is portable. Files containing MD-formatted text can be opened using virtually any application.
 - Markdown is platform independent. One can cretate MD-formatted text on any device running any operating system.  
 - Markdown is future proof. One will still be able to read ones' MD-formatted text using a text editing application even if the application one is using stops working at some point in the future.
-
+>
 ### Content
 
 Markdown is a unique markup language. In that, when one create a MD-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
