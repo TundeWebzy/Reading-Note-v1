@@ -10,10 +10,11 @@ Markdown is a lightweight markup language that can  be used to formatting elemen
 
 Markdown was created by John Gruber in 2004.
 
-> Markdown can be used to create websites, documents, notes, books, presentations, email messages, and technical documentation.
-> Markdown is portable. Files containing MD-formatted text can be opened using virtually any application.
-> Markdown is platform independent. One can cretate MD-formatted text on any device running any operating system.  
-> Markdown is future proof. One will still be able to read ones' MD-formatted text using a text editing application even if the application one is using stops working at some point in the future.
+>
+- Markdown can be used to create websites, documents, notes, books, presentations, email messages, and technical documentation.
+- Markdown is portable. Files containing MD-formatted text can be opened using virtually any application.
+- Markdown is platform independent. One can cretate MD-formatted text on any device running any operating system.  
+- Markdown is future proof. One will still be able to read ones' MD-formatted text using a text editing application even if the application one is using stops working at some point in the future.
 
 ### Content
 
